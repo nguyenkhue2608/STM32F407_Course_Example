@@ -1,0 +1,1 @@
+bai3_stm32f407ve_usb_device_msc\startup_stm32f407xx.o: startup_stm32f407xx.s

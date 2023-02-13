@@ -1,0 +1,1 @@
+bai2_stm32f407ve_sdio_1_bit\startup_stm32f407xx.o: startup_stm32f407xx.s
